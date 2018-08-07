@@ -1,3 +1,3 @@
-import ActiveDirectory = require('.');
+import ActiveDirectory = require('activedirectory');
 
 const ad = new ActiveDirectory({});
